@@ -1,0 +1,10 @@
+#fancy img {
+  border: 1px;
+  padding: 20px;
+}
+
+.row p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 20px
+}
